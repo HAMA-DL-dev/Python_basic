@@ -12,3 +12,6 @@ days=["mon","tue","wed","thur","fri"]
 days.append("sat")
 days.reverse()
 print(days)
+
+
+#learned what is 'list'
