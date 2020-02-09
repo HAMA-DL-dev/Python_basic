@@ -21,3 +21,4 @@ print(a+b)
 #int 변환이 귀찮아!
 a,b=map(int, input('숫자 두 개를 입력하세요: ').split())
 print(a+b)
+
