@@ -20,3 +20,9 @@ this is
 Python.'''
 
 print(hello)
+
+# 큰따옴표, 따옴표 넣기
+a="there's an apple"
+#또는 다음과 같이 표시 할 수 있다.
+a='there\'s an apple'
+
