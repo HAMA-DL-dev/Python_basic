@@ -2,6 +2,6 @@
 "Life is too short. You need to do Python."
     
 # 개요
-"걸음은 느리나 결코 멈추지 않는다."
+"갈길이 먼듯하나 그렇기에 가슴이 뛴다"
 
 
